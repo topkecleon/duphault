@@ -1,12 +1,7 @@
-duphault
-========
+# duphault
 
-dupie's modified look of Minecraft
+## Drew's modified look of Minecraft
 
+Modification of the default Minecraft resource pack to make things smoother and more consistent. Also includes a slightly modified, more elegant font and some CTM support.
 
-A slightly modified Minecraft resource pack to make things look better and more
-consistent. It also includes a slightly modified font and some CTM support.
-
-These textures are merely modified versions of those provided by Mojang; do not
-make commercial use of them or distribute them to unlicensed 
-individuals.
+These textures are modified versions of those provided by Mojang; do not make commercial use of them.
